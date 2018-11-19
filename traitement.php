@@ -3,7 +3,7 @@
 <head>
 <title>traitement formulaire de contact</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="refresh" content="0; index.php">
+<meta http-equiv="refresh" content="0; index.html">
 </head>
 
 <?php
@@ -34,5 +34,5 @@
     {
         echo '<script languag="javascript">alert("Votre message n\'a pas pu être envoyé");</script>';
     }
-    header('Location: index.php');
+    header('Location: index.html');
 ?>

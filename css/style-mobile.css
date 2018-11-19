@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Quicksand|Teko');
+
+body_mobile
+{
+    background-image: url(img/conseil.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.nav_mobile
+{
+    height: 250px
+}
+
+main
+{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.card-accordion
+{
+    margin-top: 300px;
+    margin-bottom: 70px;
+}
+
+
+.center
+{
+    text-align: center;
+}
+
+a:hover
+{
+    color: #dc3545; text-decoration: none;
+}
+a, a:link
+{text-decoration: none;}
+
+
+.fab_mobile
+{
+    color: aliceblue;
+    font-size: 90px;
+    margin-right: 140px;
+}
+
+.h2_mobile
+{
+    font-family: 'Teko', sans-serif;
+    font-size: 100px;
+}
+
+
+.facebook
+{
+    margin-right: 300px;
+}
+
+.twitter
+{
+    margin-left: 70px;
+}
+
+.fa-drafting-compass, .fa-tasks, .fa-globe, .fa-handshake
+{
+    font-size: 105px;
+}
